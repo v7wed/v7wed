@@ -44,50 +44,20 @@ Beyond ML and Agentic AI, I work on full-stack development because modern AI pro
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/4A90E2/FFFFFF?text=Project+1" alt="Project 1" width="100%"/>
-<h3>🎯 Signer </h3>
-<p>Brief two-line description of what this project does and the tech used</p>
-<a href="#">View Project →</a>
+<img src="https://github.com/v7wed/v7wed/blob/main/ezgif-signer.gif" alt="Signer_Gif" width="100%"/>
+<h3>🎓 Signer 🤟</h3>
+<p>A deep learning model built from scratch, with a mobile app UI</p>
+<a href="https://github.com/MagdiWaleed/Signer">View Project →</a>
 </td>
-<!--
+
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/7B68EE/FFFFFF?text=Project+2" alt="Project 2" width="100%"/>
-<h3>🤖 Project Title 2</h3>
-<p>Brief two-line description of what this project does and the tech used</p>
-<a href="#">View Project →</a>
+<!-- Placeholder for Project 2 -->
 </td>
-<!--
+
 <td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/50C878/FFFFFF?text=Project+3" alt="Project 3" width="100%"/>
-<h3>🔥 Project Title 3</h3>
-<p>Brief two-line description of what this project does and the tech used</p>
-<a href="#">View Project →</a>
+<!-- Placeholder for Project 3 -->
 </td>
 </tr>
-<!-- 
-<tr>
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/FF6B6B/FFFFFF?text=Project+4" alt="Project 4" width="100%"/>
-<h3>⚡ Project Title 4</h3>
-<p>Brief two-line description of what this project does and the tech used</p>
-<a href="#">View Project →</a>
-</td>
-<!-- 
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/4ECDC4/FFFFFF?text=Project+5" alt="Project 5" width="100%"/>
-<h3>💡 Project Title 5</h3>
-<p>Brief two-line description of what this project does and the tech used</p>
-<a href="#">View Project →</a>
-</td>
-<!-- 
-<td width="33%" align="center">
-<img src="https://via.placeholder.com/300x200/FFD93D/333333?text=Project+6" alt="Project 6" width="100%"/>
-<h3>🎨 Project Title 6</h3>
-<p>Brief two-line description of what this project does and the tech used</p>
-<a href="#">View Project →</a>
-</td>
-</tr>
--->
 </table>
 
 </div>
