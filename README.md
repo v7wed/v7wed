@@ -27,6 +27,7 @@ Beyond ML and Agentic AI, I work on full-stack development because modern AI pro
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flate-square&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-316192?style=flate-square&logo=postgresql&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
